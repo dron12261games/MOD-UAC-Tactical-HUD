@@ -17,7 +17,7 @@ What this HUD offers:
 # CREDITS
 **Created by DRON12261**
 
-Based on old material by Giffy
+Based on old materials by Giffy
 
 # Screenshots:
 ![Screen1](./screens/1.png)
