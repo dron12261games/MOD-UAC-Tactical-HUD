@@ -25,3 +25,7 @@ Based on old material by Giffy
 ![Screen3](./screens/3.png)
 ![Screen4](./screens/4.png)
 ![Screen5](./screens/5.png)
+![Screen6](./screens/6.png)
+![Screen7](./screens/7.png)
+![Screen8](./screens/8.png)
+![Screen9](./screens/9.png)
